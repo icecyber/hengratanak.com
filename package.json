@@ -7,8 +7,7 @@
   "description": "Heng Ratanak Portfolio",
   "main": "app.js",
   "scripts": {
-    "start": "node app.js",
-    "build": "webpack" // This command will automatically run on deployment
+    "start": "node app.js"
   },
   "author": "Heng Ratanak",
   "license": "ISC",
