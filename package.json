@@ -7,8 +7,8 @@
   "description": "Heng Ratanak Portfolio",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node app.js"
+    "start": "node app.js",
+    "build": "webpack" // This command will automatically run on deployment
   },
   "author": "Heng Ratanak",
   "license": "ISC",
@@ -20,3 +20,4 @@
     "nodemon": "^2.0.18"
   }
 }
+"heroku-run-build-script": true
