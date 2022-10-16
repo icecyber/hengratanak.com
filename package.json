@@ -1,9 +1,6 @@
 {
   "name": "hengratanak.com",
   "version": "1.0.0",
-  "engines": {
-    "node": "12.22.12"
-  },
   "description": "Heng Ratanak Portfolio",
   "main": "app.js",
   "scripts": {
